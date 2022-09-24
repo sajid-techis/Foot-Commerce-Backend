@@ -32,7 +32,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 X_FRAME_OPTIONS = '*'
 CORS_ALLOW_ALL_ORIGINS = True
-CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:8000/','http://0.0.0:3000']
+CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:8000/','http://0.0.0:3000','https://foot-commerce-backend.sajid-techis.repl.co/']
 
 # Application definition
 
