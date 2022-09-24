@@ -128,10 +128,7 @@ asgiref = []
 certifi = []
 cloudinary = []
 django = []
-django-cors-headers = [
-    {file = "django-cors-headers-3.13.0.tar.gz", hash = "sha256:f9dc6b4e3f611c3199700b3e5f3398c28757dcd559c2f82932687f3d0443cfdf"},
-    {file = "django_cors_headers-3.13.0-py3-none-any.whl", hash = "sha256:37e42883b5f1f2295df6b4bba96eb2417a14a03270cb24b2a07f021cd4487cf4"},
-]
+django-cors-headers = []
 django-filter = []
 djangorestframework = []
 pytz = []
